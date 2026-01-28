@@ -1,1 +1,1 @@
-{"allocations": {"SPOT": 13.0, "SNAP": 10.0, "NVDA": 16.0, "AMZN": 13.0, "GOOGL": 15.0, "LULU": 9.0, "RBLX": 7.0, "COIN": 6.0, "SHOP": 7.0, "DASH": 4.0}, "frequency": 3, "name": "", "period": "months"}
+{"allocations": {"SPOT": 13.0, "SNAP": 10.0, "NVDA": 16.0, "AMZN": 13.0, "GOOGL": 15.0, "LULU": 9.0, "RBLX": 7.0, "COIN": 6.0, "SHOP": 7.0, "DASH": 4.0}, "frequency": 30, "name": "Diversified Growth Portfolio", "period": "days"}
